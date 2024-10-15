@@ -52,9 +52,9 @@
       </a>
     </td>
     <td align="center" width="100">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-        <br>Firebase
+      <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
+        <br>JavaScript
       </a>
     </td>
   </tr>
